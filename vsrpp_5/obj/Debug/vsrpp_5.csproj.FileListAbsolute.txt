@@ -1,2 +1,12 @@
 E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\bin\Debug\vsrpp_5.exe.config
 E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\bin\Debug\vsrpp_5.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\bin\Debug\vsrpp_5.exe
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\bin\Debug\vsrpp_5.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.Form1.resources
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.Form2.resources
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.Properties.Resources.resources
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.csproj.GenerateResource.Cache
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.exe
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\mvs_3c_2s\vsrpp_5\vsrpp_5\vsrpp_5\obj\Debug\vsrpp_5.Form3.resources

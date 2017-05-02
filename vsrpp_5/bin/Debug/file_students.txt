@@ -5,3 +5,4 @@ First Name: Самсонова Second Name: Юлия Faculty: фпип Group: 12
 First Name: Андреев Second Name: Василий Faculty: фэп Group: 11
 First Name: Кондраьев Second Name: Александр Faculty: фсигя Group: 42
 First Name: Сергеева Second Name: Анна Faculty: фэп Group: 41
+First Name: попов Second Name: владимир Faculty: иф Group: 31
